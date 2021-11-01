@@ -43,3 +43,12 @@
     padding-top: 10px;
 
 }
+
+figcaption{
+    text-align: center;
+}
+
+.indexset > img{
+    border-left: 10px;
+    border-right: 10px;
+}
